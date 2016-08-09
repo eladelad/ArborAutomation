@@ -1,4 +1,4 @@
-# ArborAutomation
+# Arbor Automation
 This library is for Arbor Networks TMS automation  
 
 Tested on python 2.7.10  
